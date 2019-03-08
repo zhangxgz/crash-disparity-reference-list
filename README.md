@@ -27,3 +27,5 @@
 26. 	Plug C, Xia J, Caulfield C. Spatial and temporal visualisation techniques for crash analysis. Accid Anal Prev. 2011;43(6):1937-1946. doi:10.1016/j.aap.2011.05.007.
 27. 	Cubbin C, Smith GS. Socioeconomic Inequalities in Injury: Critical Issues in Design and Analysis. Annu Rev Public Health. 2002;23(1):349-375. doi:10.1146/annurev.publhealth.23.100901.140548.
 28. 	Clark DE. Effect of population density on mortality after motor vehicle collisions. Accid Anal Prev. 2003;35(6):965-971. doi:10.1016/S0001-4575(02)00104-5.
+http://www.rmiia.org/auto/traffic_safety/Cost_of_crashes.asp
+https://www.cdc.gov/features/globalroadsafety/index.html
