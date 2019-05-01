@@ -1,4 +1,3 @@
-# crash-disparity-reference-list
 1. 	Adanu EK, Smith R, Powell L, Jones S. Multilevel analysis of the role of human factors in regional disparities in crash outcomes. Accid Anal Prev. 2017;109(September):10-17. doi:10.1016/j.aap.2017.09.022.
 2. 	Zhang Y, Lin G. Disparity surveillance of nonfatal motor vehicle crash injuries. Traffic Inj Prev. 2013;14(7):697-702. doi:10.1080/15389588.2012.760126.
 3. 	Dong C, Nambisan SS, Richards SH, Ma Z. Assessment of the effects of highway geometric design features on the frequency of truck involved crashes using bivariate regression. Transp Res Part A Policy Pract. 2015;75:30-41. doi:10.1016/j.tra.2015.03.007.
@@ -26,6 +25,4 @@
 25. 	O. O-T, B. S-P. The sex disparity in risky driving: A survey of Colombian young drivers. Traffic Inj Prev. 2018;19(1):9-17. doi:10.1080/15389588.2017.1333606.
 26. 	Plug C, Xia J, Caulfield C. Spatial and temporal visualisation techniques for crash analysis. Accid Anal Prev. 2011;43(6):1937-1946. doi:10.1016/j.aap.2011.05.007.
 27. 	Cubbin C, Smith GS. Socioeconomic Inequalities in Injury: Critical Issues in Design and Analysis. Annu Rev Public Health. 2002;23(1):349-375. doi:10.1146/annurev.publhealth.23.100901.140548.
-28. 	Clark DE. Effect of population density on mortality after motor vehicle collisions. Accid Anal Prev. 2003;35(6):965-971. doi:10.1016/S0001-4575(02)00104-5.
-http://www.rmiia.org/auto/traffic_safety/Cost_of_crashes.asp
-https://www.cdc.gov/features/globalroadsafety/index.html
+
